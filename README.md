@@ -1,6 +1,6 @@
 # Google search results blocker
 
-A chrome extension that removes specified links from the google search results.
+A chrome extension that removes user specified links from the google search results.
 
 ## Installation
 
